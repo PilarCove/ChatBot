@@ -3,7 +3,7 @@ package chatbot;
 //Spis możliwych diaglogów.
 public class Dialogs {
     private static final String[][] Dialogs={
-        {"witaj","witam","cześć","czesc","hej"},
+        {"witaj","serwus","witam","cześć","czesc","hej"},
         {"Witaj! W czym mogę pomóc?","Cześć! Jak mogę pomóc?",
          "Hej! W czym pomóc?"},
 
